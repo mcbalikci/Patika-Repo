@@ -1,0 +1,2 @@
+# Patika-Repo
+Patika Ödevleri
